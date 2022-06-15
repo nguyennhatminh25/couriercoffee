@@ -399,9 +399,3 @@ button {
     max-width: 100%;
   }
 }
-
-@media screen and (max-width: 320px) {
-  .nav__list {
-    margin-right: 0px;
-  }
-}
